@@ -40,6 +40,8 @@ cd guess-the-number-gui
 python Task_2.py
 No external libraries required — Tkinter is included in standard Python distributions.
 
+---
+
 # 📂 File Structure
 guess-the-number-gui/
 ├── Task_2.py   # Main game code
