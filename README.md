@@ -1,7 +1,8 @@
-🎯 Guess the Number – GUI Edition (Python)
+#PRODIGY_SD_02
+#🎯 Guess the Number – GUI Edition (Python)
 A fun number guessing game built with Python's Tkinter GUI library. The player is challenged to guess a randomly generated number between 1 and 100 with helpful feedback provided after each guess.
 
-📌 Features
+###📌 Features
 🔢 Random number between 1 and 100
 
 🧠 Real-time feedback (Too high / Too low)
@@ -28,7 +29,7 @@ Restart game option
 🛠️ Tech Stack
 Language: Python 3
 
-Library: Tkinter (built-in GUI library)
+###Library: Tkinter (built-in GUI library)
 
 ▶️ How to Run
 1. Clone or Download this Repository
@@ -56,4 +57,3 @@ Sound effects on success/failure
 
 📃 License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
-
