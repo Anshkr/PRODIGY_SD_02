@@ -40,14 +40,14 @@ cd guess-the-number-gui
 python Task_2.py
 No external libraries required — Tkinter is included in standard Python distributions.
 
-📂 File Structure
+# 📂 File Structure
 guess-the-number-gui/
 ├── Task_2.py   # Main game code
 ├── README.md                 # Project documentation
 
 ---
 
-🤔 Future Enhancements
+# 🤔 Future Enhancements
 Difficulty levels (Easy/Medium/Hard)
 
 Track high score or number of games played
@@ -58,5 +58,5 @@ Sound effects on success/failure
 
 ---
 
-📃 License
+# 📃 License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
