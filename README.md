@@ -30,6 +30,8 @@ Restart game option
 🛠️ Tech Stack
 Language: Python 3
 
+---
+
 ### Library: Tkinter (built-in GUI library)
 
 ▶️ How to Run
